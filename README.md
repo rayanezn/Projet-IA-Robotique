@@ -37,10 +37,12 @@ Les objectifs principaux sont :
   - Architecture de subsomption ou arbre de décision
   - Comportements Braitenberg optimisés
 - Fichiers principaux :
-  - `robot_challenger.py` – ton robot
+  - `robot_challenger.py` – nos robots (en binome)
+  - `robot_challenger.py` - robots du prof
   - `config_Paintwars.py` – configuration de l’arène
   - `tetracomposibot.py` – programme principal
   - `go_tournament` – script pour lancer les matchs
+  - `go_tournament_eval` – script pour lancer les matchs avec plus d'arènes
 
 ---
 
