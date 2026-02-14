@@ -57,5 +57,12 @@ Lancer le tournoi :
 
 ```bash
 sh go_tournament_eval
+```
 
+## Auteurs
+
+- Rayane ZANE
+- Juba Yahiaoui
+
+Sorbonne Université – LU3IN025 : IA et Jeux
 
